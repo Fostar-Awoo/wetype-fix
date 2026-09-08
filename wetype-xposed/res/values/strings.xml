@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeType Fix</string>
+    <string name="module_desc">微信输入法增强：修复大写取消延迟；Termux 等特殊环境关闭英文候选与自动纠错；中文字码回滚显示在候选栏</string>
+</resources>
