@@ -1,4 +1,4 @@
-# ⚠️本项目由AI制作
+# ⚠️本项目由AI制作，该README是AI为日后任务生成得项目概览
 
 # WeType Fix — 微信输入法 Xposed 模块
 
